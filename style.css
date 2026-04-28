@@ -1,0 +1,81 @@
+body{
+    background-color: #201313;
+}
+#nav{
+    color: white;
+    /* display: flex;
+    justify-content: space-between; */
+    align-items: center;
+    margin-left: 400px;
+}
+#nav a{
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+#nav button{
+    background-color: #e03131;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 350px;
+    
+}
+#page{
+    margin-left: 250px;
+    margin-top: 120px;
+    border-bottom: 1px solid #7b6e68;
+}
+#page h2{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+#page p{
+    color: white;
+    font-weight: 300;
+    font-size: 30px;
+}
+#page span{
+    color: #ffe7a3;
+    text-decoration: underline;
+}
+#btn{
+    margin-left: 250px;
+}
+#btn button{
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 20px;
+    background-color: #201313;
+
+}
+#ano{
+    margin-left: 250px; 
+}
+#ano h1{
+     color: white;
+    font-size: 30px;
+    font-weight: 600; 
+}
+#ano #p1{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+}
+#ano #p2{
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+}
+#ano span{
+     color: #ffe7a3;
+    text-decoration: underline;
+}
+#ano h3{
+    color: white;
+}
