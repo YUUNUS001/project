@@ -79,3 +79,29 @@ body{
 #ano h3{
     color: white;
 }
+#section2{
+    background-color: #2f1c1c;
+    margin-left: 250px;
+    margin-right: 350px;
+}
+#section2 h2{
+    font-size: 36px;
+    color: #FAF9F9;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#subsec label{
+    color: #EAE6E4;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: monospace;
+    margin: 0px 35px;
+}
+#subsec input{
+    border-bottom: 1px solid white;
+    padding-left: 20rem;
+    margin-left: 20px;
+    background: none;
+}
